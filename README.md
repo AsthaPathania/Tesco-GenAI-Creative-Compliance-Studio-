@@ -4,7 +4,13 @@
 
 ---
 
-## 📺 Demo Video
+## 📺 Deploy Prototype
+LIVE LINK:
+https://tesco-genai-creative-compliance-studio-8fstumnzapphruvhty54p3b.streamlit.app
+
+---
+
+## 🎥 Demo Video
 VIDEO LINK:  https://youtu.be/emckz8TOF74?si=MprCnUm2KGAJpbCU
 
 ---
