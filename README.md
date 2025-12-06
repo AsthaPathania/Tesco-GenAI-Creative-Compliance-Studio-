@@ -2,6 +2,7 @@
 Tesco GenAI Creative Compliance Studio : 
 (An AI-Powered Retail Media Creative Builder).
 
+VIDEO LINK:  https://youtu.be/emckz8TOF74?si=MprCnUm2KGAJpbCU 
 
 Tesco GenAI Creative Compliance Studio is an AI-powered creative automation platform built in Streamlit that enables advertisers to instantly generate Tesco-compliant, multi-format retail media creatives using only a packshot and a short product description.
 The tool combines Generative AI with a real-time guideline compliance engine to automate a typically resource-heavy, agency-dependent process. TGCC Studio intelligently removes packshot backgrounds, extracts brand color palettes, generates layout options, and auto-adapts designs to Facebook/Instagram formats (1:1, 9:16, 1.9:1).
