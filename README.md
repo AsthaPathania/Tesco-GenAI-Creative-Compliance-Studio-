@@ -11,7 +11,7 @@ https://tesco-genai-creative-compliance-studio-8fstumnzapphruvhty54p3b.streamlit
 ---
 
 ## 🎥 Demo Video
-VIDEO LINK:  https://youtu.be/emckz8TOF74?si=MprCnUm2KGAJpbCU
+VIDEO LINK:  https://youtu.be/wzpvHhKKz9g?si=BQkQX2tp5OiLoeiR
 
 ---
 
